@@ -1,9 +1,17 @@
+# IMPORTANT
+This is a working branch, to instal the library please visit:
+https://github.com/Smartphone-Companions/ESP32-ANCS-Notifications
+
+
+
+
+
 # ESP32 ANCS Notifications
 Easy-to-use Arduino library for interfacing an ESP 32 with Bluetooth LE mobile device notifications.
 
 This library is designed to follow the standard Arduino library style, and be as easy to use and clear as possible for non-programmers (i.e. no lambda functions, threads, new C++ language features, etc.)
 
-## Features
+## Working Branch
 
   + Support notifications on your device with a few lines of Arduino code.
   + Easily start re-advertising the ESP 32 device if BLE connection is lost.
